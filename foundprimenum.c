@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// Its my first code
 int main() {
     int a, b, c;
     char againCalc;
